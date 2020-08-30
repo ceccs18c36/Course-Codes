@@ -9,4 +9,4 @@
 
 ## Codes include:
 
-1. [Building a Simple Web Browser in Python]("./SimpleWebBroweser.Py/") 👉🏻 **Python file** & data received
+1. [Building a Simple Web Browser in Python](SimpleWebBroweser.Py) 👉🏻 **Python file** & data received
