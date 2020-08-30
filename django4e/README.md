@@ -1,4 +1,4 @@
-# Course Codes from **Django for Everybody**
+# Course Codes from **Django for Everybody** specialization
 
 ### offered by **University of Michigan** 🏫
 
@@ -7,6 +7,8 @@
 <br>
 <br>
 
-## Codes include:
+## Files include:
+## Course 1 : **Web Application Technologies and Django** 🤨
 
-1. [Building a Simple Web Browser in Python](SimpleWebBrowserPy) 👉🏻 **Python file** & data received
+### Week 1 👶🏻
+1. [Building a Simple Web Browser in Python](SimpleWebBrowserPy) 👉🏻 **Python file** & data received from the server
