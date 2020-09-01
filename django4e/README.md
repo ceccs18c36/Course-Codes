@@ -11,7 +11,31 @@
 
 ## Course 1 : **Web Application Technologies and Django** 🤨
 
-### Week 1 👶🏻
+<br>
+
+## Week 1 👶🏻
 
 1. [Building a Simple Web Browser in Python](SimpleWebBrowserPy) 👉🏻 **Python file** & data received from the server
 2. [Building a Simple HTTP Server in Python](SimpleHTTPServerPy) 👉🏻 **Python file**
+
+<br>
+
+## Week 2 😄
+
+> External Assignment on PythonAnywhere
+
+<br>
+
+## Week 3 😁
+
+> No Assignments or anything new to me
+
+<br>
+
+## Week 4 😉
+
+1. [Peer-Graded: Cascading Style Sheets (Assignment)](CSS:Assignment) 👉🏻 HTML,CSS files and Images
+
+<br>
+
+## Week 5 🖤
