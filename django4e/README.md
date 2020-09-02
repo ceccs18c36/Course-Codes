@@ -39,3 +39,13 @@
 <br>
 
 ## Week 5 🖤
+
+> External Assignment
+
+<br>
+
+## Course 2 : **Building Web Applications in Django** 🎉
+
+<br>
+
+## Week 1
