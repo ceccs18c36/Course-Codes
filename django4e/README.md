@@ -34,7 +34,7 @@
 
 ## Week 4 😉
 
-1. [Peer-Graded: Cascading Style Sheets (Assignment)](CSS:Assignment) 👉🏻 HTML,CSS files and Images
+1. [Peer-Graded: Cascading Style Sheets (Assignment)](./CSS:Assignment) 👉🏻 HTML,CSS files and Images
 
 <br>
 
